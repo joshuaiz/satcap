@@ -1,0 +1,2110 @@
+# LANGUAGE (LOCALE) translation for WordPress.
+# Copyright (C) YEAR WordPress contributors.
+# This file is distributed under the same license as the WordPress package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Client\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-20 15:38+0200\n"
+"PO-Revision-Date: 2012-09-20 15:38+0200\n"
+"Last-Translator: sadasd <asdasd@sadad.asd>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:\\WP-Client\n"
+
+#: c:\WP-Client/custom-logins.php:151
+msgid "WP-Client Settings"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:153
+msgid "From here you can manage a variety of options for the WP-Client plugin."
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:156
+msgid "General"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:157
+#: c:\WP-Client/wp-client.php:159
+msgid "Custom Login"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:158
+msgid "Login/Logout Redirects"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:159
+msgid "Skins"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:160
+msgid "Login Alerts"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:161
+msgid "About"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:169
+msgid "Custom Login Screen Settings"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:202
+msgid "Use Custom Login Settings:"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:219
+msgid "Background Image Url:"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:226
+msgid "URL path to image to use for background (sized 312px wide, and around 600px tall so that it can be cropped). You can upload your image with the media uploader"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:232
+msgid "Page Background Color:"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:239
+#: c:\WP-Client/custom-logins.php:252
+#: c:\WP-Client/custom-logins.php:265
+msgid "6 digit hex color code"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:245
+msgid "Text Color:"
+msgstr ""
+
+#: c:\WP-Client/custom-logins.php:258
+msgid "Text Link Color:"
+msgstr ""
+
+#: c:\WP-Client/downloader.php:10
+#: c:\WP-Client/downloader.php:18
+msgid "Invalid file. Please try downloading again!"
+msgstr ""
+
+#: c:\WP-Client/downloader.php:71
+msgid "You do not have access to this file!"
+msgstr ""
+
+#: c:\WP-Client/exclude-pages.php:229
+msgid "Comma separated list of post and page IDs to exclude when returning pages from the get_pages function."
+msgstr ""
+
+#: c:\WP-Client/exclude-pages.php:267
+msgid "Include this page in lists of pages"
+msgstr ""
+
+#: c:\WP-Client/exclude-pages.php:272
+#, php-format
+msgid "N.B. An ancestor of this page is excluded, so this page is too (<a href=\"%1$s\" title=\"%2$s\">edit ancestor</a>)."
+msgstr ""
+
+#: c:\WP-Client/exclude-pages.php:272
+msgid "edit the excluded ancestor"
+msgstr ""
+
+#: c:\WP-Client/exclude-pages.php:282
+#, php-format
+msgid "N.B. This page can still appear in explicitly created <a href=\"%1$s\">menus</a> (<a id=\"epw_toggle_more\" href=\"#epw_explain_more\">explain more</a>)"
+msgstr ""
+
+#: c:\WP-Client/exclude-pages.php:285
+msgid "N.B. This page can still appear in explicitly created menus (<a id=\"epw_toggle_more\" href=\"#epw_explain_more\">explain more</a>)"
+msgstr ""
+
+#: c:\WP-Client/exclude-pages.php:292
+#, php-format
+msgid "WordPress provides a simple function for you to maintain your site <a href=\"%1$s\">menus</a>. If you create a menu which includes this page, the checkbox above will not have any effect on the visibility of that menu item."
+msgstr ""
+
+#: c:\WP-Client/exclude-pages.php:295
+msgid "WordPress provides a simple function for you to maintain the site menus, which your site administrator is using. If a menu includes this page, the checkbox above will not have any effect on the visibility of that menu item."
+msgstr ""
+
+#: c:\WP-Client/exclude-pages.php:299
+msgid "If you think you no longer need the Exclude Pages plugin you should talk to your WordPress administrator about disabling it."
+msgstr ""
+
+#: c:\WP-Client/exclude-pages.php:436
+msgid "Exclude Pages"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:353
+msgid "Register"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:357
+msgid "Site Admin"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:492
+msgid "ERROR: Non-local or invalid URL submitted for user "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:502
+msgid "ERROR: Unknown error updating user-specific URL for user "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:510
+msgid "ERROR: Non-existent username submitted "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:523
+msgid "Successfully updated user-specific URLs"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:569
+msgid "ERROR: Non-local or invalid URL submitted for role "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:576
+msgid "ERROR: Unknown error updating role-specific URL for role "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:584
+msgid "ERROR: Non-existent role submitted "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:597
+msgid "Successfully updated role-specific URLs"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:649
+msgid "ERROR: Non-local or invalid URL submitted for level "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:656
+msgid "ERROR: Unknown error updating level-specific URL for level "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:664
+msgid "ERROR: Non-existent level submitted "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:677
+msgid "Successfully updated level-specific URLs"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:713
+msgid "ERROR: Unknown database problem removing URL for &#34;all other users&#34; "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:715
+msgid "Successfully removed URL for &#34;all other users&#34; "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:722
+msgid "ERROR: Non-local or invalid URL submitted "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:731
+msgid "ERROR: Unknown database problem updating URL for &#34;all other users&#34; "
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:733
+msgid "Successfully updated URL for &#34;all other users&#34;"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:885
+msgid "Manage Login/Logout Redirect rules"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:888
+msgid ">> Define custom URLs to which different users will be redirected upon successful login."
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:889
+msgid ">> Define custom URLs to which different users will be redirected upon logout"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:892
+msgid "Specific users"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:896
+#: c:\WP-Client/forms/addclient.php:126
+#: c:\WP-Client/forms/clients.php:234
+#: c:\WP-Client/forms/clients.php:244
+#: c:\WP-Client/forms/clients_approve.php:162
+#: c:\WP-Client/forms/clients_approve.php:172
+#: c:\WP-Client/forms/clients_staff_approve.php:137
+#: c:\WP-Client/forms/client_registration_form.php:126
+#: c:\WP-Client/forms/editclient.php:118
+msgid "Username"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:897
+msgid "Login URL"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:898
+msgid "Logout URL"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:903
+#: c:\WP-Client/login-redirect.php:926
+#: c:\WP-Client/login-redirect.php:947
+msgid "Add:"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:905
+msgid "Select a username"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:908
+#: c:\WP-Client/login-redirect.php:931
+#: c:\WP-Client/login-redirect.php:953
+#: c:\WP-Client/login-redirect.php:960
+msgid "URL:"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:913
+#: c:\WP-Client/login-redirect.php:933
+#: c:\WP-Client/login-redirect.php:955
+#: c:\WP-Client/login-redirect.php:962
+msgid "Update"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:916
+msgid "Specific roles"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:920
+msgid "Role"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:921
+#: c:\WP-Client/login-redirect.php:942
+msgid "URL"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:928
+msgid "Select a role"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:936
+msgid "Specific levels"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:940
+msgid "Level"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:941
+msgid "Order"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:949
+msgid "Select a level"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:952
+msgid "Order:"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:958
+msgid "All other users"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:961
+msgid "Logout URL:"
+msgstr ""
+
+#: c:\WP-Client/login-redirect.php:962
+#: c:\WP-Client/forms/clients.php:267
+#: c:\WP-Client/forms/clients_approve.php:202
+#: c:\WP-Client/forms/clients_staff.php:135
+#: c:\WP-Client/forms/clients_staff_approve.php:173
+msgid "Delete"
+msgstr ""
+
+#: c:\WP-Client/widget.php:9
+msgid "Allow client to login/Logout."
+msgstr ""
+
+#: c:\WP-Client/widget.php:10
+msgid "WP Client: Login/Logout"
+msgstr ""
+
+#: c:\WP-Client/widget.php:111
+msgid "Login:"
+msgstr ""
+
+#: c:\WP-Client/widget.php:116
+msgid "Password:"
+msgstr ""
+
+#: c:\WP-Client/widget.php:121
+msgid "Login"
+msgstr ""
+
+#: c:\WP-Client/widget.php:131
+msgid "Logout"
+msgstr ""
+
+#: c:\WP-Client/widget.php:141
+msgid "Title:"
+msgstr ""
+
+#: c:\WP-Client/widget.php:146
+msgid "Text for Login field:"
+msgstr ""
+
+#: c:\WP-Client/widget.php:150
+msgid "Text for Password field:"
+msgstr ""
+
+#: c:\WP-Client/widget.php:154
+msgid "Text for Login Button:"
+msgstr ""
+
+#: c:\WP-Client/widget.php:158
+msgid "Welcome text:"
+msgstr ""
+
+#: c:\WP-Client/widget.php:164
+msgid "Display Business Name"
+msgstr ""
+
+#: c:\WP-Client/widget.php:168
+msgid "Display Contact Name"
+msgstr ""
+
+#: c:\WP-Client/widget.php:172
+msgid "Text for Logout link:"
+msgstr ""
+
+#: c:\WP-Client/widget.php:176
+msgid "Logout redirect link:"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:138
+msgid "Hub Page"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:138
+msgid "My Hub Page"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:147
+msgid "WP Client"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:147
+msgid "WP-Client"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:148
+msgid "Managers"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:149
+msgid "Add Client Page"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:150
+msgid "Templates"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:151
+msgid "File Sharing"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:152
+#: c:\WP-Client/forms/addclient.php:149
+msgid "Groups"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:153
+msgid "Settings"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:154
+msgid "WP-Client Wordpress Client Management Portal | Documentation & Tips"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:154
+msgid "Help"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:157
+#: c:\WP-Client/wp-client.php:3403
+#: c:\WP-Client/forms/addclient.php:205
+msgid "Add Client"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:158
+msgid "Login/logout redirects"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:160
+#: c:\WP-Client/forms/editclient.php:92
+msgid "Edit Client"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:161
+#: c:\WP-Client/forms/clients.php:264
+#: c:\WP-Client/forms/clients_staff.php:132
+msgid "Messages"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1073
+msgid "The Group already exists!!!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1082
+msgid "The changes of the group are saved!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1106
+msgid "Group is created!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1124
+msgid "Group is deleted!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1148
+#: c:\WP-Client/wp-client.php:1247
+msgid "Clients are assigned!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1168
+msgid "Client is approved!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1249
+msgid "Groups are assigned!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1256
+msgid "Some error with assigning permission for file."
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1274
+msgid "The Category already exists!!!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1283
+msgid "The changes of the Category are saved!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1292
+msgid "Category is created!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1316
+msgid "Category is deleted!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1347
+msgid "Files assigned to another category!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1686
+#: c:\WP-Client/wp-client.php:4106
+msgid "The file size more than allowed!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:1761
+#: c:\WP-Client/wp-client.php:1951
+#: c:\WP-Client/wp-client.php:2132
+#: c:\WP-Client/wp-client.php:4169
+#: c:\WP-Client/forms/clients.php:210
+msgid "There was an error uploading the file, please try again!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:2152
+msgid "The file has been added"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:2180
+msgid "File(s) are deleted!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3129
+msgid "Note 1: Sorry, you do not have permission to see this page."
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3151
+msgid "Note 2: Sorry, you do not have permission to see this page."
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3400
+msgid "Clients"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3406
+msgid "Approve Clients"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3409
+msgid "Clients Staff"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3412
+msgid "Clients Staff Approve"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3415
+msgid "Clients Staff Add"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3435
+msgid "Are you sure? You will lose all Clients, HUB Pages, Client Pages, Private Messages & Files"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3536
+msgid "Please enter your username!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3541
+msgid "Please enter your password!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3555
+msgid "Invalid Login or Password!"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3818
+msgid "Note 3: Sorry, you do not have permission to see this page."
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3864
+#: c:\WP-Client/wp-client.php:3918
+msgid "Sort by:"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3867
+#: c:\WP-Client/wp-client.php:3869
+#: c:\WP-Client/wp-client.php:3871
+#: c:\WP-Client/wp-client.php:3921
+#: c:\WP-Client/wp-client.php:3923
+#: c:\WP-Client/wp-client.php:3925
+msgid "Time Added:"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3867
+#: c:\WP-Client/wp-client.php:3869
+#: c:\WP-Client/wp-client.php:3871
+#: c:\WP-Client/wp-client.php:3876
+#: c:\WP-Client/wp-client.php:3878
+#: c:\WP-Client/wp-client.php:3880
+#: c:\WP-Client/wp-client.php:3921
+#: c:\WP-Client/wp-client.php:3923
+#: c:\WP-Client/wp-client.php:3925
+#: c:\WP-Client/wp-client.php:3930
+#: c:\WP-Client/wp-client.php:3932
+#: c:\WP-Client/wp-client.php:3934
+msgid "Asc"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3867
+#: c:\WP-Client/wp-client.php:3869
+#: c:\WP-Client/wp-client.php:3871
+#: c:\WP-Client/wp-client.php:3876
+#: c:\WP-Client/wp-client.php:3878
+#: c:\WP-Client/wp-client.php:3880
+#: c:\WP-Client/wp-client.php:3921
+#: c:\WP-Client/wp-client.php:3923
+#: c:\WP-Client/wp-client.php:3925
+#: c:\WP-Client/wp-client.php:3930
+#: c:\WP-Client/wp-client.php:3932
+#: c:\WP-Client/wp-client.php:3934
+msgid "Desc"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:3876
+#: c:\WP-Client/wp-client.php:3878
+#: c:\WP-Client/wp-client.php:3880
+#: c:\WP-Client/wp-client.php:3930
+#: c:\WP-Client/wp-client.php:3932
+#: c:\WP-Client/wp-client.php:3934
+msgid "Name:"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:4053
+msgid "Note 4: Sorry, you do not have permission to see this page."
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:4073
+msgid "Note 5: Sorry, you do not have permission to see this page."
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:4092
+msgid "Note 6: Sorry, you do not have permission to see this page."
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:4206
+msgid "Note 7: Sorry, you do not have permission to see this page."
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:4220
+#: c:\WP-Client/forms/clients_staff.php:71
+msgid "Employee <strong>Added</strong> Successfully."
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:4223
+#: c:\WP-Client/forms/clients_staff.php:77
+msgid "Employee <strong>Deleted</strong> Successfully."
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:4502
+#: c:\WP-Client/forms/addclientpage.php:150
+msgid "Template"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:4503
+#: c:\WP-Client/forms/addclientpage.php:151
+msgid "Client Page Template"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:4505
+#: c:\WP-Client/forms/addclientpage.php:153
+msgid "Default Template"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:5019
+msgid "You do not have permission to access that page."
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:5043
+msgid "Edit Client Page Item"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:5045
+msgid "View Client Page Item"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:5046
+#: c:\WP-Client/wp-client.php:5075
+msgid "Search Client Page"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:5047
+#: c:\WP-Client/wp-client.php:5076
+msgid "Nothing found"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:5048
+#: c:\WP-Client/wp-client.php:5077
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:5072
+msgid "Edit Hub Page Item"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:5074
+msgid "View Hub Page Item"
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:5417
+msgid "Note 8: Sorry, you do not have permission to see this page."
+msgstr ""
+
+#: c:\WP-Client/wp-client.php:5426
+msgid "Sorry, you do not have permission, your account has not approved yet. Please wait for approval."
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:12
+#: c:\WP-Client/forms/client_registration_form.php:19
+#: c:\WP-Client/forms/editclient.php:10
+msgid "A Contact Name is required.<br/>"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:15
+#: c:\WP-Client/forms/clients_staff_edit.php:15
+#: c:\WP-Client/forms/client_registration_form.php:22
+msgid "A username is required.<br/>"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:18
+#: c:\WP-Client/forms/clients_staff_edit.php:20
+#: c:\WP-Client/forms/client_registration_form.php:25
+msgid "Sorry, that username already exists!<br/>"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:21
+#: c:\WP-Client/forms/client_registration_form.php:28
+msgid "Sorry, that email address is already used!<br/>"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:25
+#: c:\WP-Client/forms/clients_staff_edit.php:35
+#: c:\WP-Client/forms/client_registration_form.php:32
+#: c:\WP-Client/forms/editclient.php:21
+msgid "Sorry, password is required.<br/>"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:27
+#: c:\WP-Client/forms/clients_staff_edit.php:37
+#: c:\WP-Client/forms/client_registration_form.php:34
+#: c:\WP-Client/forms/editclient.php:23
+msgid "Sorry, confirm password is required.<br/>"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:29
+#: c:\WP-Client/forms/clients_staff_edit.php:39
+#: c:\WP-Client/forms/client_registration_form.php:36
+#: c:\WP-Client/forms/editclient.php:25
+msgid "Sorry, Passwords are not matched! .<br/>"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:102
+#: c:\WP-Client/forms/client_registration_form.php:102
+msgid "Business or Client Name"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:108
+#: c:\WP-Client/forms/clients.php:235
+#: c:\WP-Client/forms/clients.php:245
+#: c:\WP-Client/forms/clients_approve.php:163
+#: c:\WP-Client/forms/clients_approve.php:173
+#: c:\WP-Client/forms/client_registration_form.php:108
+#: c:\WP-Client/forms/editclient.php:106
+msgid "Contact Name"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:114
+#: c:\WP-Client/forms/clients.php:237
+#: c:\WP-Client/forms/clients.php:247
+#: c:\WP-Client/forms/clients_approve.php:165
+#: c:\WP-Client/forms/clients_approve.php:175
+#: c:\WP-Client/forms/clients_staff.php:98
+#: c:\WP-Client/forms/clients_staff.php:108
+#: c:\WP-Client/forms/clients_staff_approve.php:129
+#: c:\WP-Client/forms/clients_staff_approve.php:139
+#: c:\WP-Client/forms/client_registration_form.php:114
+#: c:\WP-Client/forms/editclient.php:110
+msgid "Email"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:120
+#: c:\WP-Client/forms/client_registration_form.php:120
+#: c:\WP-Client/forms/editclient.php:114
+msgid "Phone"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:132
+#: c:\WP-Client/forms/editclient.php:122
+msgid "Admin Manager"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:134
+#: c:\WP-Client/forms/clients_approve.php:239
+#: c:\WP-Client/forms/editclient.php:124
+msgid "None"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:182
+#: c:\WP-Client/forms/clients_staff_edit.php:243
+#: c:\WP-Client/forms/client_registration_form.php:132
+#: c:\WP-Client/forms/editclient.php:144
+msgid "Password"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:188
+#: c:\WP-Client/forms/client_registration_form.php:138
+#: c:\WP-Client/forms/editclient.php:148
+msgid "Confirm Password"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:194
+#: c:\WP-Client/forms/clients_staff_edit.php:250
+#: c:\WP-Client/forms/client_registration_form.php:144
+msgid "Strength indicator"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:195
+#: c:\WP-Client/forms/client_registration_form.php:145
+msgid "Hint: The password should be at least seven characters long. To make it stronger, use upper and lower case letters, numbers and symbols like ! \" ? $ % ^ & )."
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:200
+#: c:\WP-Client/forms/clients_staff_edit.php:226
+msgid "Send this password to the new user by email."
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:207
+#: c:\WP-Client/forms/editclient.php:154
+msgid "Reset Form"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:228
+#: c:\WP-Client/forms/client_registration_form.php:177
+#: c:\WP-Client/forms/editclient.php:174
+msgid "Business Name required."
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:232
+#: c:\WP-Client/forms/client_registration_form.php:181
+#: c:\WP-Client/forms/editclient.php:178
+msgid "Contact Name required."
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:236
+#: c:\WP-Client/forms/client_registration_form.php:185
+msgid "Contact Email required."
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:238
+#: c:\WP-Client/forms/client_registration_form.php:187
+msgid "Invalid Contact Email."
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:242
+#: c:\WP-Client/forms/clients_staff_edit.php:323
+#: c:\WP-Client/forms/client_registration_form.php:191
+#: c:\WP-Client/forms/editclient.php:189
+msgid "Password required."
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:244
+#: c:\WP-Client/forms/clients_staff_edit.php:325
+#: c:\WP-Client/forms/client_registration_form.php:193
+#: c:\WP-Client/forms/editclient.php:191
+msgid "Confirm Password required."
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:246
+#: c:\WP-Client/forms/clients_staff_edit.php:327
+#: c:\WP-Client/forms/client_registration_form.php:195
+#: c:\WP-Client/forms/editclient.php:193
+msgid "Passwords are not matched."
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:264
+#: c:\WP-Client/forms/clients_staff_edit.php:347
+#: c:\WP-Client/forms/client_registration_form.php:213
+msgid "Strength Indicator"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:265
+#: c:\WP-Client/forms/clients_staff_edit.php:348
+#: c:\WP-Client/forms/client_registration_form.php:214
+msgid "Too Short"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:266
+#: c:\WP-Client/forms/clients_staff_edit.php:349
+#: c:\WP-Client/forms/client_registration_form.php:215
+msgid "Bad Password"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:267
+#: c:\WP-Client/forms/clients_staff_edit.php:350
+#: c:\WP-Client/forms/client_registration_form.php:216
+msgid "Good Password"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:268
+#: c:\WP-Client/forms/clients_staff_edit.php:351
+#: c:\WP-Client/forms/client_registration_form.php:217
+msgid "Strong Password"
+msgstr ""
+
+#: c:\WP-Client/forms/addclient.php:269
+#: c:\WP-Client/forms/clients_staff_edit.php:352
+#: c:\WP-Client/forms/client_registration_form.php:218
+msgid "Password Mismatch"
+msgstr ""
+
+#: c:\WP-Client/forms/addclientpage.php:89
+msgid "You must enter Client Page Title.<br/>"
+msgstr ""
+
+#: c:\WP-Client/forms/addclientpage.php:112
+msgid "Client Page is added."
+msgstr ""
+
+#: c:\WP-Client/forms/addclientpage.php:129
+msgid "Client Page Title"
+msgstr ""
+
+#: c:\WP-Client/forms/addclientpage.php:133
+msgid "Page Content"
+msgstr ""
+
+#: c:\WP-Client/forms/addclientpage.php:135
+msgid "Default Client Page Template"
+msgstr ""
+
+#: c:\WP-Client/forms/addclientpage.php:158
+msgid "No found any page templates"
+msgstr ""
+
+#: c:\WP-Client/forms/addclientpage.php:166
+msgid "Select Clients who will have permissions for this Client Page"
+msgstr ""
+
+#: c:\WP-Client/forms/addclientpage.php:167
+#: c:\WP-Client/forms/addclientpage.php:214
+msgid "This can be changed later in the editing interface for the appropriate Client Page"
+msgstr ""
+
+#: c:\WP-Client/forms/addclientpage.php:213
+msgid "Select Groups who will have permissions for this Client Page"
+msgstr ""
+
+#: c:\WP-Client/forms/addclientpage.php:242
+msgid "Create New Client Page"
+msgstr ""
+
+#: c:\WP-Client/forms/clients.php:185
+msgid "Please select a valid csv file to import."
+msgstr ""
+
+#: c:\WP-Client/forms/clients.php:201
+#: c:\WP-Client/forms/clients_approve.php:21
+msgid "Client <strong>Added</strong> Successfully."
+msgstr ""
+
+#: c:\WP-Client/forms/clients.php:204
+msgid "Client <strong>Updated</strong> Successfully."
+msgstr ""
+
+#: c:\WP-Client/forms/clients.php:207
+#: c:\WP-Client/forms/clients_approve.php:24
+msgid "Client <strong>Deleted</strong> Successfully."
+msgstr ""
+
+#: c:\WP-Client/forms/clients.php:225
+msgid "Import Clients"
+msgstr ""
+
+#: c:\WP-Client/forms/clients.php:236
+#: c:\WP-Client/forms/clients.php:246
+#: c:\WP-Client/forms/clients_approve.php:164
+#: c:\WP-Client/forms/clients_approve.php:174
+#: c:\WP-Client/forms/editclient.php:102
+msgid "Business Name"
+msgstr ""
+
+#: c:\WP-Client/forms/clients.php:238
+#: c:\WP-Client/forms/clients.php:248
+#: c:\WP-Client/forms/clients_approve.php:166
+#: c:\WP-Client/forms/clients_approve.php:176
+#: c:\WP-Client/forms/clients_staff.php:100
+#: c:\WP-Client/forms/clients_staff.php:110
+#: c:\WP-Client/forms/clients_staff_approve.php:131
+#: c:\WP-Client/forms/clients_staff_approve.php:141
+msgid "Action"
+msgstr ""
+
+#: c:\WP-Client/forms/clients.php:263
+msgid "Files"
+msgstr ""
+
+#: c:\WP-Client/forms/clients.php:265
+#: c:\WP-Client/forms/clients_staff.php:133
+msgid "Edit"
+msgstr ""
+
+#: c:\WP-Client/forms/clients.php:267
+msgid "Are you sure to delete this Client? "
+msgstr ""
+
+#: c:\WP-Client/forms/clients_approve.php:101
+#: c:\WP-Client/forms/clients_staff_approve.php:86
+msgid "Approve the Client"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_approve.php:114
+#: c:\WP-Client/forms/clients_staff_approve.php:98
+msgid "No Groups for assign."
+msgstr ""
+
+#: c:\WP-Client/forms/clients_approve.php:202
+#: c:\WP-Client/forms/clients_staff_approve.php:173
+msgid "Are you sure to delete this Client?"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_approve.php:237
+msgid "Set Admin Manager"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_approve.php:254
+msgid "Assign to Groups"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_approve.php:257
+msgid "Select all."
+msgstr ""
+
+#: c:\WP-Client/forms/clients_approve.php:269
+#: c:\WP-Client/forms/clients_staff_approve.php:172
+msgid "Approve"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_approve.php:270
+msgid "Cancel"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff.php:74
+msgid "Employee <strong>Updated</strong> Successfully."
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff.php:96
+#: c:\WP-Client/forms/clients_staff.php:106
+#: c:\WP-Client/forms/clients_staff_approve.php:127
+msgid "Employee"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff.php:97
+#: c:\WP-Client/forms/clients_staff.php:107
+#: c:\WP-Client/forms/clients_staff_approve.php:128
+#: c:\WP-Client/forms/clients_staff_approve.php:138
+#: c:\WP-Client/forms/clients_staff_edit.php:206
+msgid "First Name"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff.php:99
+#: c:\WP-Client/forms/clients_staff.php:109
+#: c:\WP-Client/forms/clients_staff_approve.php:130
+#: c:\WP-Client/forms/clients_staff_approve.php:140
+msgid "Assigned to Client"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff.php:135
+msgid "Are you sure to delete this Employee?"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_approve.php:21
+msgid "Employee is approved."
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_approve.php:24
+msgid "Employee is Deleted."
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:28
+#: c:\WP-Client/forms/editclient.php:15
+msgid "Email address already uses.<br/>"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:126
+msgid "Add new Employee"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:128
+msgid "Update Employee"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:186
+msgid "Employee Login"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:186
+#: c:\WP-Client/forms/clients_staff_edit.php:198
+#: c:\WP-Client/forms/client_registration_form.php:114
+#: c:\WP-Client/forms/client_registration_form.php:126
+#: c:\WP-Client/forms/client_registration_form.php:132
+msgid "(required)"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:198
+msgid "E-mail"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:214
+msgid "Last Name"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:223
+#: c:\WP-Client/forms/client_registration_form.php:150
+msgid "Send Password?"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:232
+msgid "Update Password?"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:235
+msgid "Checking this box will change the password."
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:243
+msgid "(twice, required)"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:251
+msgid "Hint: The password should be at least seven characters long. To make it stronger, use upper and lower case letters, numbers and symbols like ! \" ? $ % ^ &amp; )."
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:258
+msgid "Assign to Client:"
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:311
+msgid "A username is required."
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:315
+#: c:\WP-Client/forms/editclient.php:182
+msgid "Email required."
+msgstr ""
+
+#: c:\WP-Client/forms/clients_staff_edit.php:317
+#: c:\WP-Client/forms/editclient.php:184
+msgid "Invalid Email."
+msgstr ""
+
+#: c:\WP-Client/forms/client_registration_form.php:7
+msgid "Registration is disabled!"
+msgstr ""
+
+#: c:\WP-Client/forms/client_registration_form.php:152
+msgid "Send this password to email."
+msgstr ""
+
+#: c:\WP-Client/forms/client_registration_form.php:157
+msgid "Registration"
+msgstr ""
+
+#: c:\WP-Client/forms/editclient.php:140
+msgid "Update Password? Checking this box will change the password"
+msgstr ""
+
+#: c:\WP-Client/forms/editclient.php:152
+msgid "Update Client"
+msgstr ""
+
+#: c:\WP-Client/forms/edit_clientpage.php:6
+#: c:\WP-Client/forms/staff_directory.php:8
+#: c:\WP-Client/forms/staff_registration_form.php:6
+msgid "Sorry, you do not have permission to see this page."
+msgstr ""
+
+#: c:\WP-Client/forms/edit_clientpage.php:10
+#: c:\WP-Client/forms/staff_directory.php:12
+#: c:\WP-Client/forms/staff_registration_form.php:10
+msgid "Sorry, you do not have permission to see this page!"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:117
+#: c:\WP-Client/forms/files_cat.php:153
+#: c:\WP-Client/forms/files_cat.php:161
+msgid "File Categories"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:125
+#: c:\WP-Client/forms/files_cat.php:161
+msgid "Add New"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:136
+msgid "Upload File(s)"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:141
+#: c:\WP-Client/forms/files.php:323
+#: c:\WP-Client/forms/files.php:425
+#: c:\WP-Client/forms/files.php:747
+msgid "Category"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:161
+#: c:\WP-Client/forms/files.php:343
+#: c:\WP-Client/forms/files.php:444
+#: c:\WP-Client/forms/files_cat.php:167
+#: c:\WP-Client/forms/files_cat.php:174
+msgid "New Category"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:171
+#: c:\WP-Client/forms/files.php:353
+#: c:\WP-Client/forms/files.php:454
+msgid "Client(s)"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:174
+#: c:\WP-Client/forms/files.php:356
+#: c:\WP-Client/forms/files.php:457
+msgid "Assign To Client(s)"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:180
+#: c:\WP-Client/forms/files.php:362
+#: c:\WP-Client/forms/files.php:463
+msgid "Group(s)"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:183
+#: c:\WP-Client/forms/files.php:365
+#: c:\WP-Client/forms/files.php:466
+msgid "Assign To Group(s)"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:191
+#: c:\WP-Client/forms/files.php:373
+#: c:\WP-Client/forms/files.php:474
+msgid "Send notify to assigned Clients and his Staff"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:198
+msgid "File(s)"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:310
+#: c:\WP-Client/forms/files.php:379
+msgid "Upload File"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:315
+msgid "File"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:387
+msgid "Please select file to upload."
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:403
+msgid "Add an external file | From onsite or offsite server location"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:407
+#: c:\WP-Client/forms/files.php:708
+#: c:\WP-Client/forms/files.php:735
+msgid "File Name"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:411
+msgid "ex. file.zip"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:416
+msgid "File URL"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:420
+msgid "ex. http://www.site.com/file.zip"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:480
+msgid "Add External File"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:487
+msgid "Assign Client(s) To New File:"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:493
+#: c:\WP-Client/forms/files.php:572
+#: c:\WP-Client/forms/files.php:983
+msgid "Select All."
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:547
+msgid "No Clients For Assign."
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:557
+#: c:\WP-Client/forms/files.php:614
+msgid "Ok"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:566
+msgid "Assign Group(s) To New File:"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:604
+msgid "No Groups For Assign."
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:636
+msgid "All"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:637
+msgid "Admin files"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:638
+msgid "Files for Admin"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:646
+#: c:\WP-Client/forms/files.php:648
+msgid "Search Media"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:655
+msgid "Select Author"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:665
+msgid "Filter"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:670
+#: c:\WP-Client/forms/files.php:924
+msgid "Bulk Actions"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:671
+#: c:\WP-Client/forms/files.php:925
+msgid "Reassign Category"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:674
+#: c:\WP-Client/forms/files.php:789
+#: c:\WP-Client/forms/files.php:928
+msgid "Delete Permanently"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:689
+#: c:\WP-Client/forms/files.php:943
+msgid "Apply"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:711
+#: c:\WP-Client/forms/files.php:738
+msgid "Author"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:720
+msgid "Categories"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:723
+#: c:\WP-Client/forms/files.php:750
+msgid "Date"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:783
+#: c:\WP-Client/forms/files.php:785
+msgid "Download"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:794
+#: c:\WP-Client/forms/files.php:796
+#: c:\WP-Client/forms/files.php:808
+#: c:\WP-Client/forms/files.php:810
+#: c:\WP-Client/forms/files.php:869
+#: c:\WP-Client/forms/files.php:871
+#: c:\WP-Client/forms/groups.php:264
+#: c:\WP-Client/forms/groups.php:266
+msgid "View"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:806
+#: c:\WP-Client/forms/files.php:865
+msgid "Assign"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:812
+msgid "Those Clients have access to file"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:873
+msgid "Those Groups have access to file"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:995
+#: c:\WP-Client/forms/files_cat.php:41
+#: c:\WP-Client/forms/groups.php:64
+#: c:\WP-Client/forms/groups.php:337
+msgid "Save"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:1166
+msgid "Assign Clients to the file"
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:1179
+#: c:\WP-Client/forms/groups.php:123
+msgid "No Clients for assign."
+msgstr ""
+
+#: c:\WP-Client/forms/files.php:1197
+msgid "Assign Groups to the file"
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:38
+#: c:\WP-Client/forms/files_cat.php:46
+#: c:\WP-Client/forms/groups.php:61
+#: c:\WP-Client/forms/groups.php:69
+msgid "Close"
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:181
+msgid "Create Category"
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:196
+msgid "Category Name"
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:198
+#: c:\WP-Client/forms/groups.php:230
+msgid "Actions"
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:233
+msgid "Category have files. What do with files"
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:243
+msgid "Reassign Files"
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:245
+msgid "Delete Files"
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:256
+msgid "No File Categories"
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:265
+msgid "Drag&Drop for change category order."
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:270
+msgid "Reassign Files Category"
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:276
+msgid "Category From"
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:286
+msgid "Category To"
+msgstr ""
+
+#: c:\WP-Client/forms/files_cat.php:296
+msgid "Reassign"
+msgstr ""
+
+#: c:\WP-Client/forms/groups.php:181
+msgid "Create New Group"
+msgstr ""
+
+#: c:\WP-Client/forms/groups.php:191
+msgid "Group Name"
+msgstr ""
+
+#: c:\WP-Client/forms/groups.php:198
+msgid "Auto-Select this group on the Add Client page"
+msgstr ""
+
+#: c:\WP-Client/forms/groups.php:205
+msgid "Assign all existing Clients"
+msgstr ""
+
+#: c:\WP-Client/forms/groups.php:211
+msgid "Add Group"
+msgstr ""
+
+#: c:\WP-Client/forms/groups.php:220
+msgid "List of Groups"
+msgstr ""
+
+#: c:\WP-Client/forms/groups.php:227
+msgid "Group Na"
+msgstr ""
+
+#: c:\WP-Client/forms/groups.php:228
+msgid "Auto-Select"
+msgstr ""
+
+#: c:\WP-Client/forms/groups.php:268
+msgid "Those Clients have access to group"
+msgstr ""
+
+#: c:\WP-Client/forms/groups.php:300
+#: c:\WP-Client/forms/manager_edit.php:286
+msgid "Assign Clients"
+msgstr ""
+
+#: c:\WP-Client/forms/groups.php:318
+msgid "Assign Clients to the group"
+msgstr ""
+
+#: c:\WP-Client/forms/groups.php:325
+msgid "Select all Clients.  "
+msgstr ""
+
+#: c:\WP-Client/forms/login_form.php:14
+msgid "Remember Me"
+msgstr ""
+
+#: c:\WP-Client/forms/logout.php:4
+msgid "LOGOUT"
+msgstr ""
+
+#: c:\WP-Client/forms/managers.php:75
+msgid "Manager <strong>Added</strong> Successfully."
+msgstr ""
+
+#: c:\WP-Client/forms/managers.php:78
+msgid "Manager <strong>Updated</strong> Successfully."
+msgstr ""
+
+#: c:\WP-Client/forms/managers.php:81
+msgid "Manager <strong>Deleted</strong> Successfully."
+msgstr ""
+
+#: c:\WP-Client/forms/managers.php:92
+#: c:\WP-Client/forms/manager_edit.php:196
+msgid "Add Manager"
+msgstr ""
+
+#: c:\WP-Client/forms/managers.php:101
+#: c:\WP-Client/forms/managers.php:109
+msgid "Nickname"
+msgstr ""
+
+#: c:\WP-Client/forms/manager_edit.php:144
+msgid "Add new Manager"
+msgstr ""
+
+#: c:\WP-Client/forms/manager_edit.php:146
+msgid "Update Manager"
+msgstr ""
+
+#: c:\WP-Client/forms/manager_edit.php:288
+msgid "Select all"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:208
+msgid "Message marked as read."
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:211
+msgid "Message is sent."
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:214
+msgid "Message is deleted."
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:232
+#: c:\WP-Client/forms/messages.php:392
+msgid "Sent message to"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:234
+msgid "-Select Client-"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:243
+#: c:\WP-Client/forms/messages.php:407
+#: c:\WP-Client/forms/messages_client.php:91
+msgid "Type your private message here"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:248
+#: c:\WP-Client/forms/messages.php:409
+#: c:\WP-Client/forms/messages_client.php:93
+msgid "Send private message"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:282
+#: c:\WP-Client/forms/messages.php:291
+msgid "Message"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:283
+#: c:\WP-Client/forms/messages.php:292
+msgid "From"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:284
+#: c:\WP-Client/forms/messages.php:293
+msgid "To"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:285
+#: c:\WP-Client/forms/messages.php:294
+msgid "Time"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:308
+msgid "NEW!"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:314
+msgid "Mark as Read"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:316
+msgid "Read & Reply"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:321
+#: c:\WP-Client/forms/messages.php:324
+#: c:\WP-Client/forms/messages.php:357
+#: c:\WP-Client/forms/messages_client.php:114
+msgid "Administrator"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:345
+msgid "Chain of Messages"
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:377
+msgid "No message."
+msgstr ""
+
+#: c:\WP-Client/forms/messages.php:394
+msgid "-Select Client / Staff-"
+msgstr ""
+
+#: c:\WP-Client/forms/messages_client.php:112
+msgid "You"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:37
+#: c:\WP-Client/forms/templates.php:5
+#: c:\WP-Client/forms/templates.php:10
+#: c:\WP-Client/forms/templates.php:21
+msgid "Settings updated Successfully."
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:144
+msgid "Email Address"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:153
+msgid "Successful Logins"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:157
+#: c:\WP-Client/forms/settings.php:169
+msgid "Off"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:158
+#: c:\WP-Client/forms/settings.php:170
+msgid "On"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:165
+msgid "Failed Logins"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:178
+#: c:\WP-Client/forms/settings.php:220
+#: c:\WP-Client/forms/settings.php:540
+msgid "Update Settings"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:202
+msgid "Change Skins | Changes the color of the default images used in Hub Page"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:207
+msgid "Select Skin Style"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:211
+msgid "Dark"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:212
+msgid "Light"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:229
+msgid "Notification Settings"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:234
+msgid "Receive email notification of private messages from clients"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:238
+#: c:\WP-Client/forms/settings.php:250
+#: c:\WP-Client/forms/settings.php:269
+#: c:\WP-Client/forms/settings.php:281
+#: c:\WP-Client/forms/settings.php:294
+#: c:\WP-Client/forms/settings.php:318
+#: c:\WP-Client/forms/settings.php:338
+#: c:\WP-Client/forms/settings.php:350
+#: c:\WP-Client/forms/settings.php:363
+#: c:\WP-Client/forms/settings.php:376
+#: c:\WP-Client/forms/settings.php:389
+#: c:\WP-Client/forms/settings.php:426
+#: c:\WP-Client/forms/settings.php:513
+msgid "Yes"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:239
+#: c:\WP-Client/forms/settings.php:251
+#: c:\WP-Client/forms/settings.php:270
+#: c:\WP-Client/forms/settings.php:282
+#: c:\WP-Client/forms/settings.php:295
+#: c:\WP-Client/forms/settings.php:319
+#: c:\WP-Client/forms/settings.php:339
+#: c:\WP-Client/forms/settings.php:351
+#: c:\WP-Client/forms/settings.php:364
+#: c:\WP-Client/forms/settings.php:377
+#: c:\WP-Client/forms/settings.php:390
+#: c:\WP-Client/forms/settings.php:427
+#: c:\WP-Client/forms/settings.php:514
+msgid "No"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:246
+msgid "Receive email notification of private messages from admin"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:260
+msgid "Create Client/Staff Settings"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:265
+msgid "Automatically create client page"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:277
+msgid "Hide dashboard/backend"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:290
+msgid "Open Client Registration"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:297
+msgid "Allow registration client. All clients require approval from the Administrator."
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:307
+msgid "Automatically approve clients who register using form."
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:314
+msgid "Open Staff Registration"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:321
+msgid "Allow Client to add staff. All staff requires approval from the Administrator."
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:329
+msgid "File Display Settings"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:334
+msgid "Show sort"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:346
+msgid "Show File Categories"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:353
+msgid "Display File Categories on Client HUB page."
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:359
+msgid "Enable category choice for client file upload"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:366
+msgid "By default, files will be uploaded in \"General\" category."
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:372
+msgid "Use Flash uploader in Admin area"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:379
+#: c:\WP-Client/forms/settings.php:392
+msgid "with progress bar, multiple files uploading."
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:385
+msgid "Use Flash uploader in Client area"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:398
+msgid "Max File Size For Upload (Kb)"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:402
+msgid "Remember: 1M = 1024Kb"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:404
+msgid "Leave blank to allow unlimited file size.<br>NOTE: This setting does not change your server settings. You should change your server settings if you are have trouble.<br>Your server settings are:"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:417
+msgid "Custom Navigation Settings"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:422
+msgid "Show custom menu on login"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:439
+msgid "(logged-in)"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:461
+#: c:\WP-Client/forms/settings.php:492
+msgid "Please first create menu in Appearance->Menus"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:465
+msgid "(Custom menu for logged-in users)"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:471
+msgid "(not logged-in)"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:496
+msgid "(Custom menu for not logged-in users)"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:509
+msgid "Show HUB page link in menu"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:521
+msgid "HUB page link text"
+msgstr ""
+
+#: c:\WP-Client/forms/settings.php:530
+msgid "Graphic (for shortcode [wpc_client_graphic])"
+msgstr ""
+
+#: c:\WP-Client/forms/staff_directory.php:73
+msgid "Status"
+msgstr ""
+
+#: c:\WP-Client/forms/staff_directory.php:82
+msgid "Waiting for approval"
+msgstr ""
+
+#: c:\WP-Client/forms/staff_directory.php:84
+msgid "Approved"
+msgstr ""
+
+#: c:\WP-Client/forms/staff_registration_form.php:14
+msgid "Staff registration is disabled!"
+msgstr ""
+
+#: c:\WP-Client/forms/staff_registration_form.php:190
+msgid "Send this password to the new Employee by email."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:184
+msgid "Hub Page Templates"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:185
+msgid "Client Page Templates"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:186
+msgid "Email Templates"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:203
+msgid "Hub Page Template"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:204
+msgid "From here you can edit the template of the newly created hub pages."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:208
+msgid "New hub page template"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:231
+msgid "From here you can edit the template of the newly created client pages."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:235
+msgid "New client page template"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:256
+msgid "WP Client Emails Settings"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:257
+msgid "From here you can edit the emails templates and settings."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:261
+msgid "Sender Information"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:266
+msgid "Sender Name"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:275
+msgid "Sender Email"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:287
+msgid "New Client Created by Admin"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:288
+#: c:\WP-Client/forms/templates.php:317
+msgid "This email will be sent to Client (if checked \"Send Password\")"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:293
+#: c:\WP-Client/forms/templates.php:322
+#: c:\WP-Client/forms/templates.php:351
+#: c:\WP-Client/forms/templates.php:385
+#: c:\WP-Client/forms/templates.php:415
+#: c:\WP-Client/forms/templates.php:445
+#: c:\WP-Client/forms/templates.php:475
+#: c:\WP-Client/forms/templates.php:510
+#: c:\WP-Client/forms/templates.php:544
+#: c:\WP-Client/forms/templates.php:578
+#: c:\WP-Client/forms/templates.php:612
+msgid "Email Subject"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:302
+#: c:\WP-Client/forms/templates.php:331
+#: c:\WP-Client/forms/templates.php:363
+#: c:\WP-Client/forms/templates.php:394
+#: c:\WP-Client/forms/templates.php:424
+#: c:\WP-Client/forms/templates.php:454
+#: c:\WP-Client/forms/templates.php:488
+#: c:\WP-Client/forms/templates.php:522
+#: c:\WP-Client/forms/templates.php:556
+#: c:\WP-Client/forms/templates.php:590
+#: c:\WP-Client/forms/templates.php:624
+msgid "Email Body"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:316
+msgid "Client Password Updated"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:345
+msgid "New Client registers using Self-Registration Form"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:346
+msgid "This email will be sent to Admin after a new Client registers with client registration form"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:369
+msgid "{site_title} and {approve_url} will not be change as these placeholders will be used in the email."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:379
+msgid "Staff Created by website Admin"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:380
+msgid "This email will be sent to Staff (if checked \"Send Password\")"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:400
+#: c:\WP-Client/forms/templates.php:430
+#: c:\WP-Client/forms/templates.php:460
+msgid "{contact_name}, {user_name}, {password} and {admin_url} will not be changed as these placeholders will be used in the email."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:409
+msgid "Staff Registered by Client"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:410
+msgid "This email will be sent to Staff after Client registered him (if checked \"Send Password\")"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:439
+msgid "Manager Created"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:440
+msgid "This email will be sent to Manager (if checked \"Send Password\")"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:469
+msgid "Client Page Updated "
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:470
+msgid "This email will be sent to Client (if checked \"Send Update to selected Client(s)\") when Client Page updating"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:480
+msgid "{contact_name}, {user_name}, {password} and {page_id} will not be changed as these placeholders will be used in the email."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:494
+msgid "{contact_name} and {page_id} will not be change as these placeholders will be used in the email."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:504
+msgid "Admin uploads new file for Client"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:505
+msgid "This email will be sent to Client and his Staff when Admin or Manager will upload new file for Client."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:528
+msgid "{site_title} and {login_url} will not be change as these placeholders will be used in the email."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:538
+msgid "Client Uploads new file"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:539
+msgid "This email will be sent to Admin and Client's Manager when Client will upload file(s)"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:562
+msgid "{user_name}, {site_title} and {admin_file_url} will not be change as these placeholders will be used in the email."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:572
+msgid "Private Message: Notify Message To Client"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:573
+msgid "This email will be sent to Client when Admin/Manager sent private message (if selected option \"Receive email notification of private messages from admin\" in plugin settings)."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:596
+msgid "{user_name}, {site_title} and {login_url} will not be change as these placeholders will be used in the email."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:606
+msgid "Private Message: Notify Message To Admin/Manager"
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:607
+msgid "This email will be sent to Admin/Manager when Client sent private message (if selected option \"Receive email notification of private messages from clients\" in plugin settings)."
+msgstr ""
+
+#: c:\WP-Client/forms/templates.php:630
+msgid "{user_name}, {site_title}, {message} and {login_url} will not be change as these placeholders will be used in the email."
+msgstr ""
+
+#: c:\WP-Client/forms/upload.php:99
+msgid "Select category"
+msgstr ""
+
+#: c:\WP-Client/forms/upload.php:114
+msgid "Cancel Uploads"
+msgstr ""
+

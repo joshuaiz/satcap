@@ -1,0 +1,27 @@
+[Sat Aug 11 10:51:38 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php
+[Sat Aug 11 10:51:54 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php
+[Sat Aug 11 10:52:15 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php
+[Sat Aug 11 10:52:36 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php, referer: http://satellitecap.com/
+[Sat Aug 11 10:53:22 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php
+[Sat Aug 11 10:53:39 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php
+[Sat Aug 11 10:53:55 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php
+[Sat Aug 11 10:54:09 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php
+[Sat Aug 11 10:54:16 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php
+[Sat Aug 11 10:54:22 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php
+[Sat Aug 11 10:54:37 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php, referer: http://satellitecap.com/
+[Sat Aug 11 10:56:10 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php
+[Sat Aug 11 10:58:01 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php
+[Sat Aug 11 10:58:48 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php
+[Sat Aug 11 11:07:13 2012] [error] [client 76.125.6.51] Premature end of script headers: plugins.php, referer: http://satellitecap.com/wp-admin/plugins.php?error=true&plugin=WP-Client%2Fwp-client.php&_error_nonce=3186af161d
+[Sat Aug 11 11:08:15 2012] [error] [client 76.125.6.51] Premature end of script headers: plugins.php, referer: http://satellitecap.com/wp-admin/plugins.php?error=true&plugin=WP-Client%2Fwp-client.php&_error_nonce=3186af161d
+[Sat Aug 11 11:08:26 2012] [error] [client 76.125.6.51] Premature end of script headers: plugins.php, referer: http://satellitecap.com/wp-admin/plugins.php?error=true&plugin=WP-Client%2Fwp-client.php&_error_nonce=3186af161d
+[Sat Aug 11 11:09:14 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php, referer: http://satellitecap.com/wp-admin/plugins.php?error=true&plugin=WP-Client%2Fwp-client.php&_error_nonce=3186af161d
+[Sat Aug 11 11:09:28 2012] [error] [client 76.125.6.51] Premature end of script headers: wp-login.php, referer: http://satellitecap.com/
+[Sat Aug 11 11:11:29 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php, referer: http://satellitecap.com/
+[Sat Aug 11 11:12:30 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php, referer: http://satellitecap.com/wp-admin/plugins.php?error=true&plugin=WP-Client%2Fwp-client.php&_error_nonce=3186af161d
+[Sat Aug 11 11:12:57 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php, referer: http://satellitecap.com/wp-admin/plugins.php?error=true&plugin=WP-Client%2Fwp-client.php&_error_nonce=3186af161d
+[Sat Aug 11 11:13:03 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php, referer: http://satellitecap.com/wp-admin/plugins.php?error=true&plugin=WP-Client%2Fwp-client.php&_error_nonce=3186af161d
+[Sat Aug 11 11:13:48 2012] [error] [client 76.125.6.51] Premature end of script headers: plugins.php, referer: http://satellitecap.com/wp-admin/plugins.php?error=true&plugin=WP-Client%2Fwp-client.php&_error_nonce=3186af161d
+[Sat Aug 11 11:14:31 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php, referer: http://satellitecap.com/wp-admin/plugins.php?error=true&plugin=WP-Client%2Fwp-client.php&_error_nonce=3186af161d
+[Sat Aug 11 11:14:58 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php, referer: http://satellitecap.com/wp-admin/plugins.php?error=true&plugin=WP-Client%2Fwp-client.php&_error_nonce=3186af161d
+[Sat Aug 11 11:15:04 2012] [error] [client 76.125.6.51] Premature end of script headers: index.php, referer: http://satellitecap.com/wp-admin/plugins.php?error=true&plugin=WP-Client%2Fwp-client.php&_error_nonce=3186af161d
